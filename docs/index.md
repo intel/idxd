@@ -1,5 +1,5 @@
 ---
-title: accel-config
+Title: accel-config
 
 ---
 [View the Project on GitHub](https://github.com/intel/idxd-config)  
