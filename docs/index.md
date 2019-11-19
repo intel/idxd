@@ -1,6 +1,6 @@
 ---
 title: accel-config
-layout: pmdk
+
 ---
 [View the Project on GitHub](https://github.com/pmem/accel-config)  
 **Generated from [local-build-accel-config-v2.5-3-g2f7e108](https://github.com/pmem/accel-config/releases/tag/accel-config-v2.5-3-g2f7e108) [[tree]](https://github.com/pmem/accel-config/tree/accel-config-v2.5-3-g2f7e108)**  
