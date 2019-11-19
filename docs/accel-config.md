@@ -1,7 +1,3 @@
----
-title: accel-config
-layout: pmdk
----
 NAME
 ====
 
