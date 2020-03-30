@@ -127,8 +127,7 @@ EXAMPLE
         "traffic_class_b":-1
       }
     ]
-  }
-]
+
 
 OPTIONS
 =======
@@ -156,10 +155,10 @@ Include device info in the listing
 Include group info in the listing
 
 `-Q; --workqueues`  
-Include workqueue info in the listing
+Include active workqueue info in the listing
 
 `-E; --engines`  
-Include engine info in the listing
+Include both idle (not enabled) and active engine info in the listing
 
 TO BE CHANGED -i:: --idle:: Include idle (not enabled) devices in the
 listing
