@@ -22,7 +22,7 @@ OPTIONS
 This specifies the maximum number of bandwidth tokens that may be in use
 at one time by operations that access low bandwidth memory. This number
 of bandwidth tokens is shared by all descriptors accessing low bandwidth
-memory across the entire device. token\_limit should be more than 0.
+memory across the entire device. token_limit should be more than 0.
 
 COPYRIGHT
 =========
