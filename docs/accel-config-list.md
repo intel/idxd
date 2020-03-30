@@ -22,10 +22,9 @@ to:
 
 EXAMPLE
 =======
-
-    # accel-config list  
-[
-  {
+# accel-config list  
+    [
+    {
     "dev":"dsa0",
     "token_limit":0,
     "max_groups":4,
