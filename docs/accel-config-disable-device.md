@@ -14,6 +14,13 @@ EXAMPLE
 
 accel-config disable-device dsa0
 
+OPTIONS
+=======
+-f::
+--force::
+	Force the disable of device even when there are clients using the
+	device.
+  
 COPYRIGHT
 =========
 
