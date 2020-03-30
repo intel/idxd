@@ -14,6 +14,12 @@ EXAMPLE
 
 accel-config disable-wq dsa0/wq0.0
 
+OPTIONS
+=======
+-f::
+--force::
+	Force the disabling of the wq even if there are clients using the wq.
+
 COPYRIGHT
 =========
 
