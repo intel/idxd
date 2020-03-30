@@ -18,8 +18,7 @@ accel-config config-device dsa0 --token-limit=1
 OPTIONS
 =======
 
--l::
---token-limit=::
+`-l; --token-limit=`
 This specifies the maximum number of bandwidth tokens that may be in use
 at one time by operations that access low bandwidth memory. This number
 of bandwidth tokens is shared by all descriptors accessing low bandwidth
