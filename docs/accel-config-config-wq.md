@@ -56,6 +56,18 @@ request wq or "user" for regular character device driver use case to wq.
 configure the mode for the wq. The wq mode can be set as "dedicated" or
 "shared".
 
+`-c; --max-batch-size`
+specify the max batch size used by a work queue. The value should be
+between 1 and the device maximum batch size found in the
+max\_batch\_size attribute under device. If the value is not a power
+of 2, it will be rounded up to the next power of 2.
+
+`-x; --max-transfer-size`
+specify the max transfer size used by a work queue. The value should be
+between 1 and the device maximum transfer size found in the
+max\_transfer\_size attribute under device. If the value is not a power
+of 2, it will be rounded up to the next power of 2.
+
 COPYRIGHT
 =========
 
